@@ -1,0 +1,39 @@
+color:
+
+	red 		:	#FD511A
+	green 		:	#21B573
+	black 		:	#000000
+	bgc 		:	#F0FFF0
+	footer bgc 	:	#282531
+
+font:
+	poppins 400, 500, 700
+	roboto 400
+
+
+size
+align
+spacing
+order
+
+header---------------------
+		xxl/xl/lg 		md 		sm/col
+padding		15			15 		   5
+
+banner-------------------------
+padding     65 			65 		   60
+font
+h1 			48 			40 		   30
+
+feature------------------------
+padding 	100 		80
+font
+h2 			24/20 		24 			20
+
+courses/testimony---------------
+h1 			36 			36 			25
+h2 			24 			24 			20
+
+
+
+
